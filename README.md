@@ -1,5 +1,5 @@
 #### -> FigureAreaCalculationLibrary
-Содержит решение задания.
+Содержит решение 1-го задания.
 
 #### -> FigureAreaCalculationLibrary.Tests
 Собственно тесты.
